@@ -1,17 +1,14 @@
 # Treehouse Personal Profile Page
+Customized a personal online profile by adding graphics, updating text, and improving the look of the web page using CSS (Cascading Style Sheets).
 
 ![](https://github.com/HaleyWardo/treehouse-personal-profile-page/blob/master/image.png)
 
 ## Overview 
-Customized a personal online profile by adding graphics, customizing text, and improving the look of the web page using Cascading Style Sheets.
-
-For this project, I practiced my web design skills by customizing a web page to create a personal profile page. With the HTML and CSS already provided, I was asked to add, edit, and remove the pre-existing code. I modified the web page by adding images, customizing text, and adding my own stylish design.
+For this project, I practiced my web design skills by editing HTML elements and their styles. With the HTML and CSS already provided, I was asked to add, edit, and remove the pre-existing code and make it my own. Part of the project was to also add additional pages and images on your own for meeting the exceeds criteria.  This gave me a good first look on working with HTML and CSS.
 
 ## Skills
 - HTML
 - CSS
 
 ## Conclusion
-At the end of this project, I had a strong understanding of how to customize pre-existing code, as well as add new code and remove pieces I no longer wanted. This project also gave me a web page where I can use as a personal online portfolio to advertise my experience, skills, and goals, and to provide links to my social media accounts. 
-
-
+At the end of this project, I had a better understanding of HTML and CSS. Going for the exceeds really helped me grasp these new concepts. This project also gave me a web page that I can use as a personal online portfolio to advertise my experience, skills, and goals. It could also be used to share my social media links!
