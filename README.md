@@ -1,7 +1,9 @@
 # Treehouse Personal Profile Page
 Customized a personal online profile by adding graphics, updating text, and improving the look of the web page using CSS (Cascading Style Sheets).
 
-![](https://github.com/HaleyWardo/treehouse-personal-profile-page/blob/master/image.png)
+<p align="center">
+  <img src="https://github.com/HaleyWardo/treehouse-personal-profile-page/blob/master/image.png">
+</p>
 
 ## Overview 
 For this project, I practiced my web design skills by editing HTML elements and their styles. With the HTML and CSS already provided, I was asked to add, edit, and remove the pre-existing code and make it my own. Part of the project was to also add additional pages and images on your own for meeting the exceeds criteria.  This gave me a good first look on working with HTML and CSS.
