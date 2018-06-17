@@ -1,5 +1,7 @@
 # Treehouse Personal Profile Page
 
+![](https://github.com/HaleyWardo/treehouse-personal-profile-page/blob/master/image.png)
+
 ## Overview 
 Customized a personal online profile by adding graphics, customizing text, and improving the look of the web page using Cascading Style Sheets.
 
