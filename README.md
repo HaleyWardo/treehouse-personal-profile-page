@@ -3,7 +3,7 @@
 Customized a personal online profile by adding graphics, updating text, and improving the look of the web page using CSS (Cascading Style Sheets).
 
 ## Live Demo
-Click <a href="https://haleywardo.github.io/projects/project-1/index.html">here</a> for a live look.
+Click [here](https://haleywardo.github.io/projects/project-1/index.html) for a live look.
 
 <p align="center">
   <img src="https://github.com/HaleyWardo/treehouse-personal-profile-page/blob/master/image.png">
